@@ -9,7 +9,7 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 
 ## Algorithm
 
-1.Start the program and read:
+1. Start the program and read:
 Number of children n and their greed factors g[].
 Number of cookies m and their sizes s[].
 2. Sort both arrays g[] (children’s greed) and s[] (cookie sizes) in ascending order to distribute the smallest cookie that satisfies each child.
