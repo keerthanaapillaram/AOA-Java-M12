@@ -11,7 +11,7 @@ Write a program to find the minimum number of jumps required to reach the last i
 If it is not possible to reach the end, return -1.
 ## Algorithm
 
-1.Read input:
+1. Read input:
 Number of elements n.
 Array nums[] of size n, where each element represents the maximum jump length from that position.
 2. Handle base cases:
